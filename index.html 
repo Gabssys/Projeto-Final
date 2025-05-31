@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script src="https://unpkg.com/@phosphor-icons/web"></script>
+  <link rel="stylesheet" href="style.css">
+  <title>Projeto</title>
+</head>
+<body>
+  <main>
+
+    <div class="card">
+      <div class="cardimg">
+        <img src="https://static.vecteezy.com/ti/vetor-gratis/t1/9169290-coqueiros-silhueta-a-noite-natureza-fundo-com-lua-e-nuvens-vetor.jpg" alt="" width="300px" class="fundo">
+      <span class="label">PROMO</span>
+      <div class="conteudo">
+      <h3>60% Discount Tickets</h3>
+      <p>World-Wide Destination</p>
+      </div>
+      <button class="promo">PROMO</button>
+    </div>
+  </div>
+
+    <div class="checkin">
+      <h5>upcoming fight</h5>
+      <i class="ph ph-line-vertical"></i>
+      <div class="yogyakarta">
+        <h3>YIA (Yogyakarta)</h3>
+        <p>Sep 20 - 09:50</p>
+      </div>
+      <div class="CGK">
+        <h3>CGK (Jakarta)</h3>
+        <p>Sep 20 - 12:50</p>
+      </div>
+    <a href="#" class="card-button">
+      <span>Check-in</span>
+    </a>
+      <button class="3point" aria-label="Outras Ações">
+       <i class="ph ph-dots-three"></i>
+    </button> 
+    </div>
+
+    <nav class="menu">
+      <div class="barra"></div>
+      <i class="ph ph-arrow-fat-up"></i>
+      <a href="Home">Home</a>
+      <i class="ph ph-trash-simple"></i>
+      <a href="Bucket List">Bucket List</a>
+      <i class="ph ph-plus"></i>
+      <a href="New Post">New Post</a>
+      <i class="ph ph-bell"></i>
+      <a href="Notifications">Notifications</a>
+      <i class="ph ph-user"></i>
+      <a href="Profile">Profile</a>
+    </nav>
+
+    <div class="food">
+      <i class="ph ph-bowl-steam"></i>
+      <h5>Food</h5>
+    </div>
+
+    <div class="stay">
+      <i class="ph ph-house-line"></i>
+      <h5>Stay</h5>
+    </div>
+
+    <div class="transport">
+      <i class="ph ph-car"></i>
+      <h5>transport</h5>
+    </div>
+
+    <div class="transport2">
+      <i class="ph ph-car"></i>
+      <h5>transport</h5>
+    </div>
+
+    <div class="mensagem">
+      <div class="author">
+        <div class="avatar">
+          <img src="https://metodosupera.com.br/wp-content/uploads/2023/09/20-anos-do-estatuto-da-pessoa-idosa-e-dia-internacional-do-idoso-supera-ginastica-para-o-cerebro-1.jpg" width="70px"  alt="" class="foto" >
+        </div>
+        <div class="author-info">
+          <span class="author-name">Andi Surajia</span>
+          <span class="info">Merapi Villa Costumer Service</span>
+        </div>
+        <i class="ph ph-phone"></i>
+      </div>
+    </div>
+
+  <div class="Confirmation">
+    <i class="ph ph-hourglass-simple"></i>
+    <h5>Waiting for hotel confirmation...</h5>
+  </div>
+
+  <div class="km">
+    <h1>210m</h1>
+    <p>to destination</p>
+    <div class="linhavertical"></div>
+    <span>3 min</span>
+    <span>Pasar Kolombo</span>
+  </div>
+  
+  </main>
+</body>
+</html>

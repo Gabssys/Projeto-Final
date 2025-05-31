@@ -1,0 +1,191 @@
+*{
+  margin: 0px;
+  border: 0px;
+  box-sizing: border-box;
+}
+
+body{
+  background-color: lightgray;
+}
+
+.card{
+  background-color: white;
+  border-radius: 20px;
+  margin-top: 50px;
+  margin-left: 50px;
+  display: flex;
+  width: 300px;
+  height: 350px;
+}
+
+.label{
+  padding: 10px;
+}
+
+.conteudo{
+  padding: 10px;
+}
+
+.promo{
+  border-radius: 10px;
+  padding: 10px;
+  background-color: white;
+}
+
+.fundo{
+  border-radius: 20px 20px 0 0;
+}
+
+.checkin{
+  background-color: white;
+  border-radius: 20px;
+  margin-top: 50px;
+  margin-left: 50px;
+  display: flex;
+  width: 300px;
+  height: 150px;
+  display: flex;
+}
+
+.yogyakarta{
+  justify-content: center;
+
+}
+
+.menu{
+  background-color: white;
+  justify-content: space-around;
+  align-items: center;
+  border-radius: 20px;
+  margin-top: 50px;
+  margin-left: 50px;
+  display: flex;
+  width: 500px;
+  height: 50px;
+}
+
+.food{
+  background-color: white;
+  border-radius: 10px;
+  margin-top: 50px;
+  margin-left: 50px;
+  display: flex;
+  width: 80px;
+  height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.food h5{
+  position: absolute;
+  margin-top: 40px;
+}
+
+.stay{
+  background-color: white;
+  border-radius: 10px;
+  margin-top: 50px;
+  margin-left: 50px;
+  display: flex;
+  width: 80px;
+  height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.stay h5{
+  position: absolute;
+  margin-top: 40px;}
+
+.transport{
+  background-color: white;
+  border-radius: 10px;
+  margin-top: 50px;
+  margin-left: 50px;
+  display: flex;
+  width: 80px;
+  height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.transport h5{
+  position: absolute;
+  margin-top: 40px;}
+
+.transport2{
+  background-color: white;
+  border-radius: 10px;
+  margin-top: 50px;
+  margin-left: 50px;
+  display: flex;
+  width: 80px;
+  height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.transport2 h5{
+  position: absolute;
+  margin-top: 40px;
+  }
+
+.mensagem{
+  background-color: white;
+  border-radius: 20px;
+  margin-top: 20px;
+  margin-left: 20px;
+  display: flex;
+  width: 300px;
+  height: 150px;
+}
+.foto{
+  border-radius: 50%;
+  padding: 5px;
+}
+
+.author-info{
+  
+}
+
+.Confirmation{
+  display: flex;
+  background-color: white;
+  width: 300px;
+  height: 50px;
+  align-items: center;
+  justify-content: center;
+  margin-top: 40px;
+  margin-left: 20px;
+  border-radius: 10px;
+  gap: 15px;
+}
+
+.Confirmation .ph{
+  color: green;
+}
+
+.km{
+  display: grid;
+  background-color: white;
+  width: 170px;
+  height: 170px;
+  margin-top: 40px;
+  margin-left: 20px;
+  border-radius: 10px;
+  gap: 5px;
+  padding: 12px;
+}
+ 
+ .km p{
+  color: gray;
+ }
+
+.linhavertical{
+  height: 40px;
+  border-right: 1px solid rgb(0, 255, 17);
+  margin-right: 350px;
+}
